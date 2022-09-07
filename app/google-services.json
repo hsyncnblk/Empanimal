@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550655767090",
+    "project_id": "empaniimal",
+    "storage_bucket": "empaniimal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550655767090:android:1c043757196267212b422b",
+        "android_client_info": {
+          "package_name": "com.huseyin.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550655767090-mgcnfnmdcmjh1l97qh29lgtns7q51fbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCueGrmHGLWGp7-AZXOm48u8-LmcdSBetg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550655767090-mgcnfnmdcmjh1l97qh29lgtns7q51fbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
